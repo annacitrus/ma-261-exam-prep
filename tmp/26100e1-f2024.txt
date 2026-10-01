@@ -1,0 +1,190 @@
+PAGE 1
+MA 26100
+EXAM 1 INSTRUCTIONS
+VERSION 01
+October 1, 2024
+Your name Your TA’s name
+Student ID # Section # and recitation time
+1. You must use a #2 pencil on the scantron sheet (answer sheet).
+2. Check that the cover of your exam booklet is GREEN and that it has VERSION 01 on
+the top. Write 01 in the TEST/QUIZ NUMBER boxes and blacken in the appropriate
+spaces below.
+3. On the scantron sheet, fill in your TA’s name (NOT the lecturer’s name) and the
+course number.
+4. Fill in your NAME and PURDUE ID NUMBER, and blacken in the appropriate spaces.
+Put TWO Zeroes in front of your ID number on your card.
+5. Fill in the four-digit SECTION NUMBER. Put Zero in front of your section number.
+6. Sign the scantron sheet.
+7. Blacken your choice of the correct answer in the space provided for each of the questions
+1–12. While mark all your work on the scantron sheet, you should show your work on
+the exam booklet. Although no partial credit will be given, any disputes about the grade
+or grading will be settled by examining your written work on the exam booklet.
+8. There are 12 questions, each worth 8 points (you will automatically earn 4 point for
+taking the exam).The maximum possible score is 100 points.
+9. NO calculators, electronic device, books, or papers are allowed. Use the back of the test
+pages for scrap paper.
+10. After you finish the exam, turn in BOTH the scantron sheet and the exam booklet.
+11. If you finish the exam before 7:25, you may leave the room after turning in the scantron
+sheets and the exam booklets. If you don’t finish before 7:25, REMAIN SEATED until
+your TA comes and collects your scantron sheet and exam booklet.
+1
+
+PAGE 2
+Exam Policies
+1. Students must take pre-assigned seats and/or follow TAs’ seating instructions.
+2. Students may not open the exam until instructed to do so.
+3. No student may leave in the first 20 min or in the last 5 min of the exam.
+4. Students late for more than 20 min will not be allowed to take the exam; they will
+have to contact their lecturer within one day for permission to take a make-up exam.
+5. After time is called, the students have to put down all writing instruments and remain
+in their seats, while the TAs will collect the scantron sheet and the exam booklet.
+6. Any violation of the above rules may result in score of zero.
+Rules Regarding Academic Dishonesty
+1. You are not allowed to seek or obtain any kind of help from anyone to answer questions
+on the exam. If you have questions, consult only your instructor.
+2. You are not allowed to look at the exam of another student. You may not compare
+answers with anyone else or consult another student until after you have finished your
+exam, handed it in to your instructor and left the room.
+3. You may not consult notes, books, calculators. You may not handle cell phones or
+cameras, or any electronic devices until after you have finished your exam, handed it
+in to your instructor and left the room.
+4. Anyone who violates these instructions will have committed an act of academic dis-
+honesty. Penalties for academic dishonesty can be very severe and may include an F
+in the course. All cases of academic dishonesty will be reported immediately to the
+Office of the Dean of Students.
+Ihavereadandunderstandtheexampoliciesandtherulesregardingtheacademicdishonesty
+stated above:
+STUDENT NAME:
+STUDENT SIGNATURE:
+2
+
+PAGE 3
+1. The line through points (2,2,2) and (3,2,1) intersects the plane 2x+y +z = 7 at what
+point?
+A. (1,1,4)
+B. (1,3,2)
+C. (1,2,3)
+D. (0,4,3)
+E. (2,−1,4)
+3
+
+PAGE 4
+2. Identify the surface defined by the equation x2 +2x+y2 −4y −z2 = −4.
+A. Elliptic cone
+B. Hyperboloid of two sheets
+C. Hyperbolic paraboloid
+D. Hyperboloid of one sheet
+E. Ellipsoid
+4
+
+PAGE 5
+3. For what value of a do the two lines r(t) = (cid:104)1+t,t,1+t(cid:105), R(s) = (cid:104)2−s,s+1,2s+a(cid:105)
+intersect at one point?
+A. 2
+B. 0
+C. 1
+D. −2
+E. −1
+5
+
+PAGE 6
+4. The non empty level curves of f(x,y) = ex2+y2−y are
+A. non-circular ellipses
+B. parabolas
+C. hyperbolas
+D. circles
+E. lines
+6
+
+PAGE 7
+2x4 −2y4 +sin(x2 +y2)
+5. The limit lim is equal to
+(x,y)→(0,0) x2 +y2
+A. does not exist
+B. 2
+C. 3
+D. 4
+E. 1
+7
+
+PAGE 8
+dz
+6. If yz3 = x+y +z, use implicit differentiation to compute
+dx
+at (x,y,z) = (1,0,−1).
+A. -2
+B. -1
+C. 0
+D. 1
+E. 2
+8
+
+PAGE 9
+7. What is the arc length of the curve
+r(t) = (cid:104)2cos(t)+2sin(t),5,2cos(t)−2sin(t)(cid:105)
+for π ≤ t ≤ 2π.
+A. π
+√
+B. 8π
+√
+C. 8
+√
+D. 2 8π
+E. 2π
+9
+
+PAGE 10
+8. What is the curvature κ(t) of the curve
+r(t) = (cid:104)cos(t),sin(t),2t(cid:105).
+A. κ(t) = 1
+5
+B. κ(t) = 5
+C. κ(t) = sin2(t)
+D. κ(t) = 1
+√
+E. κ(t) = 5 5
+10
+
+PAGE 11
+9. Suppose a particle is moving through space with velocity v(t) = (cid:104)1,2t,3t2(cid:105) and at t = 0
+passes through the point (4,−1,5). What is the formula r(t) for the function representing
+the position of the particle.
+A. r(t) = (cid:104)5,2t−1,3t3 +5(cid:105)
+B. r(t) = (cid:104)t−4,t2 +1,t3 −5(cid:105)
+C. r(t) = (cid:104)t,t2,t3(cid:105)
+D. r(t) = (cid:104)t+4,t2 −1,t3 +5(cid:105)
+E. r(t) = (cid:104)−3,2t+1,3t3 −5(cid:105)
+11
+
+PAGE 12
+10. Find the directional derivative of f(x,y,z) = xeyz at the point (0,1,-1) in the direction
+of (cid:104)1,1,1(cid:105).
+A. 3e
+B. √ 1 e
+3
+C. 1
+e
+√
+D. e 3
+E. √ 1
+3e
+12
+
+PAGE 13
+11. Find the equation of a plane containing the point (1,0,1) and parallel to each of vectors
+(cid:104)1,1,2(cid:105) and (cid:104)−1,0,1(cid:105).
+A. x−3y +z = 0
+B. x−3y +z = 2
+C. x+3y +z = 2
+D. x+3y +z = 7
+E. x+z = 0
+13
+
+PAGE 14
+12. Find the critical points of f(x,y) = x2y +y +2y2.
+A. (0,−1/4)
+B. (1/4,1/4)
+C. (1/4,0)
+D. There are no critical points
+E. (0,1)
+14

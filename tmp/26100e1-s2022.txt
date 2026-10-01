@@ -1,0 +1,213 @@
+PAGE 1
+MA 26100
+EXAM 1
+02/22/2022
+1010
+TEST/QUIZ NUMBER:
+NAME YOUR TA’S NAME
+STUDENT ID # RECITATION TIME
+You must use a #2 pencil on the scantron sheet. Write 1010 in the TEST/QUIZ NUMBER boxes and
+blacken in the appropriate digits below the boxes. On the scantron sheet, fill in your TA’s name for the
+INSTRUCTOR and MA 261 for the COURSE number. Fill in whatever fits for your first and last NAME.
+The STUDENT IDENTIFICATION NUMBER has ten boxes, so use 00 in the first two boxes and your
+PUID in the remaining eight boxes. Fill in your three-digit SECTION NUMBER. If you do not know your
+section number, ask your TA. Complete the signature line.
+There are 12 questions, each worth 8 points (you will automatically earn 4 points for taking the exam).
+Blacken in your choice of the correct answer in the spaces provided for questions 1–12. Do all your work in
+this exam booklet and indicate your answers in the booklet in case the scantron is lost. Use the back of the
+test pages for scrap paper. Turn in both the scantron sheet and the exam booklet when you are finished.
+If you finish the exam before 8:50, you may leave the room after turning in the scantron sheet and the exam
+booklet. Youmaynotleavetheroombefore8:20. If you don’t finish before 8:50, you MUST REMAIN SEATED
+until your TA comes and collects your scantron sheet and your exam booklet.
+EXAM POLICIES
+1. Students may not open the exam until instructed to do so.
+2. Students must obey the orders and requests by all proctors, TAs, and lecturers.
+3. No student may leave in the first 20 min or in the last 10 min of the exam.
+4. Books, notes, calculators, or any electronic devices are not allowed on the exam, and
+they should not even be in sight in the exam room. Students may not look at anybody
+else’stest, andmaynotcommunicatewithanybodyelseexcept, iftheyhaveaquestion,
+with their TA or lecturer.
+5. After time is called, the students have to put down all writing instruments and remain
+in their seats, while the TAs will collect the scantrons and the exams.
+6. Any violation of these rules and any act of academic dishonesty may result in severe
+penalties. Additionally, all violators will be reported to the Office of the Dean of
+Students.
+I have read and understand the exam rules stated above:
+STUDENT NAME:
+STUDENT SIGNATURE:
+1
+
+PAGE 2
+1. Find the plane tangent to the surface z2 = 2xy at (1,2,−2).
+A. 2x+y −2z = 8
+B. x+2y −2z = 9
+C. 2x+y +2z = 0
+D. 4x+2y −z = 10
+E. x+2y +2z = 1
+F. 4x+2y +z = 6
+2. Find the absolute maximum value, M, and the absolute minimum value, m, of the function
+f(x,y) = x2 +y2 −4y +4 on the closed disk {(x,y) : x2 +y2 ≤ 16}.
+A. M = 36 and m = 0
+B. M = 36 and m = 4
+C. M = 28 and m = 2
+D. M = 28 and m = 0
+E. M = 28 and m = 4
+F. M = 36 and m = 2
+2
+
+PAGE 3
+xy
+3. Consider the limit lim . Which of the following statements is true?
+(x,y)→(0,0)
+x2 +y2
+A. The limit does not exist, because the path-restricted limit approaching (0,0) along
+the diagonal y = x does not exist.
+B. The limit does not exist, even though the path-restricted limits approaching (0,0)
+along the x-axis and the y-axis are both 0.
+C. The limit does not exist, because the path-restricted limits approaching (0,0) along
+the x-axis and the y-axis are different.
+D. The limit is 0, and the limit along any path approaching (0,0) is also 0.
+E. The limit is 0, because the path-restricted limit approaching (0,0) along the diagonal
+y = x is 0.
+F. The limit is 0, even though the path-restricted limits approaching (0,0) along the
+x-axis and the y-axis are different.
+4. Identify the surface that does not contain the curve
+(cid:126)r(t) = (cid:104)cost,−cost,sint(cid:105)
+A. Plane: x+y = 0
+B. Circular cylinder: y2 +z2 = 1
+x2 y2
+C. Ellipsoid: + +z2 = 1
+2 2
+D. Circular cylinder: x2 +y2 = 1
+x2 2y2
+E. Ellipsoid: + +z2 = 1
+3 3
+F. Circular cylinder: x2 +z2 = 1
+3
+
+PAGE 4
+5. Suppose z = f(x,y) has the following level curves:
+The surface formed by the graph of f could be which of the following?
+A. Plane
+B. Hyperbolic paraboloid
+C. Hyperboloid of two sheets
+D. Ellipsoid
+E. Elliptic paraboloid
+F. Elliptic cone
+6. A ball is launched from an initial location of (0,h), with initial velocity vector (cid:104)10,10(cid:105). Use
+the constant g > 0 for the acceleration due to gravity, and assume the gravitational force
+points in the direction of the negative y-axis. Determine the location of the ball when it is
+at its maximum height.
+√ √
+(cid:18) (cid:19)
+50+5 100+2gh 10+ 100+2gh
+A. ,
+g g
+√
+(cid:18) (cid:19)
+100 10+ 100+2gh
+B. ,
+g g
+√ √
+(cid:18) (cid:19)
+50+5 100+2gh 100+3gh+10 100+2gh
+C. ,
+g 4g
+(cid:18) (cid:19)
+100 50+gh
+D. ,
+g g
+√
+(cid:18) (cid:19)
+100 100+3gh+10 100+2gh
+E. ,
+g 4g
+√
+(cid:18) (cid:19)
+50+5 100+2gh 50+gh
+F. ,
+g g
+4
+
+PAGE 5
+7. The line (cid:96) passes through the points (1,1,1) and (2,0,1). The plane Q contains the points
+(0,0,0), (1,2,2), and (1,0,1). Find the intersection point of (cid:96) and Q.
+A. (0,2,1)
+B. (−1,4,1)
+C. (2,−2,1)
+D. (−2,4,1)
+E. (4,−2,1)
+F. (3,−1,1)
+8. Find the arclength function for
+(cid:126)r(t) = (cid:104)cost+tsint, sint−tcost, t2(cid:105),
+giving the length of the curve measured from (1,0,0) in the direction of positive orientation.
+1 1
+A. s(t) = (1+t2)3/2 −
+3 3
+(cid:90) t√
+B. s(t) = 1+u2 +u4 du
+0
+√
+5
+C. s(t) = t2
+2
+√
+D. s(t) = 5t
+√ √
+2 2 2 2
+E. s(t) = (1+t)3/2 −
+3 3
+√ √
+t 1+t2 +ln|t+ 1+t2|
+F. s(t) =
+2
+5
+
+PAGE 6
+9. Compute the directional derivative of f(x,y,z) = x2y + yz2 at (1,1,1) in the direction
+2 1 2
+(cid:126)i+ (cid:126)j + (cid:126)k.
+3 3 3
+A. 3
+8
+B.
+3
+C. 8
+D. 2
+E. 10
+10
+F.
+3
+10. Which of these equations has a graph like the pictured elliptic cone, with vertex at the origin
+and opening in the direction of the x-axis.
+A. y2 −4z2 −16x2 = 1
+B. y2 +4z2 −16x2 = 1
+C. y2 +4z2 +16x2 = 1
+D. y2 −4z2 +16x2 = 0
+E. y2 +4z2 −16x2 = 0
+F. y2 −4z2 +16x2 = 1
+6
+
+PAGE 7
+x3 y3
+11. Classify all critical points of f(x,y) = − +2xy, and choose the correct summary from
+3 3
+the answer choices below.
+A. Two local maximums.
+B. One local maximum and one saddle point.
+C. One local maximum and one local minimum.
+D. One local minimum and one saddle point.
+E. Two local minimums.
+F. Two saddle points.
+12. Suppose f is a function of x, y, and z, with f (1,1,1) = 1,f (1,1,1) = 2, and f (1,1,1) = 3.
+x y z
+df
+If x = x(t) = t2, y = y(t) = t3, and z = z(t) = t4, find when t = 1.
+dt
+A. 54
+B. 6
+C. 20
+D. 144
+E. 9
+F. 24
+7

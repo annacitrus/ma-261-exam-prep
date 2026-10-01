@@ -1,0 +1,15 @@
+PAGE 1
+Exam 1 - Spring 2024
+02/20/2024
+EXAM 1 2 3 4 5 6 7 8 9 10 11 12
+11 E B A E B E E A A E A C
+12 B C D E E B A B E C D A
+13 A D A A A B D C A C C D
+14 E A C D A E C A C C D B
+15 D D E C A D C C E D B D
+16 A E B C E A E C B A D C
+17 D B A C E B E E D D B C
+18 C D B A D A A A D B C B
+19 E A E E C D C B A E C E
+99 (ALT) C A B C E B D D A A C C
+1

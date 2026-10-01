@@ -1,0 +1,162 @@
+PAGE 1
+MA 26100
+EXAM 1 Form 01
+♡ February 14, 2023 ♡
+NAME YOUR TA’S NAME
+STUDENT ID # RECITATION TIME
+Be sure the paper you are looking at right now is GREEN! Write the following in the TEST/QUIZ
+NUMBER boxes and blacken in the appropriate spaces below the boxes on the scantron: 01
+You must use a #2 pencil on the scantron answer sheet. Fill in the following on your scantron and
+blacken the bubbles
+1. Your name. If there aren’t enough space for your name, fill in as much as you can.
+2. Section number. If you don’t know your section number, ask your TA.
+3. Test/Quiz number: 01
+4. StudentIdentificationNumber: This is your Purdue ID number with two leading zeros.
+There are 12 questions, each worth 8 points (you will automatically earn 4 points for filling out
+your student ID number correctly). Blacken in your choice of the correct answer in the spaces
+provided for questions 1–12. Do all your work in this exam booklet. Use the back of the test pages
+for scrap paper. Turn in both the scantron and the exam booklet when you are finished.
+If you finish the exam before 7:20, you may leave the room after turning in the scantron sheet and
+the exam booklet. You may not leave the room before 6:50. If you don’t finish before 7:20, you
+MUST REMAIN SEATED until your TA comes and collects your scantron sheet and your exam
+booklet.
+EXAM POLICIES
+1. Students may not open the exam until instructed to do so.
+2. Students must obey the orders and requests by all proctors, TAs, and lecturers.
+3. No student may leave in the first 20 min or in the last 10 min of the exam.
+4. Books, notes, calculators, or any electronic devices are not allowed on the exam, and they
+should not even be in sight in the exam room. Students may not look at anybody else’s test,
+and may not communicate with anybody else except, if they have a question, with their TA
+or lecturer.
+5. After time is called, the students have to put down all writing instruments and remain in
+their seats, while the TAs will collect the scantrons and the exams.
+6. Anyviolationoftheserulesandanyactofacademicdishonestymayresultinseverepenalties.
+Additionally, all violators will be reported to the Office of the Dean of Students.
+I have read and understand the exam rules stated above:
+STUDENT SIGNATURE:
+1
+
+PAGE 2
+MA 26100 Exam 1 Spring 2023
+1. Which vector is perpendicular to the plane which contains the points P(−1,−1,1),
+Q(1,2,3), and R(3,2,−1)?
+A. ⟨2,4,−1⟩
+B. ⟨2,−2,1⟩
+C. ⟨2,−1,3⟩
+D. ⟨−1,1,3⟩
+E. ⟨−2,1,1⟩
+2. Which of the following are true and which are false?
+(I) For every ⃗u and ⃗v the vector projection of ⃗u onto ⃗v is equal to the vector projection
+of ⃗u onto 2⃗v.
+(II) (⃗i+⃗j)×(⃗i−⃗j) =⃗0 where⃗i = ⟨1,0,0⟩ and⃗j = ⟨0,1,0⟩ .
+(III) (⃗u×⃗v)·⃗v = 0 for every pair of vectors ⃗u and ⃗v.
+A. (I) and (III) are true; (II) is false.
+B. (I) and (II) are true; (III) is false.
+C. (II) and (III) are true; (I) is false.
+D. (II) is true; (I) and (III) are false.
+E. All are true.
+2
+
+PAGE 3
+MA 26100 Exam 1 Spring 2023
+3. The plane K contains the x-axis and the point P(1,2,3). If the plane also contains the
+point (2,−4,a), what is a+4? Hint: start with the equation of the plane.
+A. −2
+B. −3
+C. −4
+D. −5
+E. −6
+4. Identify the quadric surface 2x2 +3y2 = 4x+2z2.
+A. Hyperboloid of two sheets
+B. Elliptic paraboloid
+C. Hyperbolic paraboloid
+D. Hyperboloid of one sheet
+E. Elliptic cone
+3
+
+PAGE 4
+MA 26100 Exam 1 Spring 2023
+5. Find parametric equations for the tangent line to the curve
+⃗r(t) = ⟨t2 +3t+2,etcost,ln(t+1)⟩
+at the point (2,1,0)
+A. x = 2+3t,y = 1+t,z = t
+B. x = 2t+3,y = et(cost−sint),z = 1
+t+1
+C. x = 2t+3,y = 1+t,z = 1
+D. x = 3t,y = 2t,z = 1+t
+E. x = 2−t,y = 1+t,z = 3−3t
+6. Aparticlestartsattheoriginwithinitialvelocity⃗i+⃗j− ⃗ k. Ithasanaccelerationt⃗i+⃗j+t ⃗ k.
+Find its position at t = 1.
+A. 1⃗i+ 1⃗j + 1⃗ k
+6 2 3
+B. 7⃗i+ 1⃗j − 5⃗ k
+6 2 6
+C. ⃗i+⃗j + ⃗ k
+D. 7⃗i+ 3⃗j − 5⃗ k
+6 2 6
+E. ⃗i+2⃗j − ⃗ k
+4
+
+PAGE 5
+MA 26100 Exam 1 Spring 2023
+(cid:112)
+7. The level curves of f(x,y) = 36−4x2 −9y2 are
+A. Sometimes parabolas and sometimes points
+B. Sometimes ellipses and sometimes points
+C. Sometmes hyperbolas and sometimes lines
+D. Always parabolas
+E. Always lines
+8. Letr(t) = ⟨−13cos(t)+9,5sin(t)−9,12sin(t)+12⟩. Computeκ(2π),thecurvatureeval-
+3
+uated at 2π.
+3
+√
+A. 1
+5
+B. 13
+C. 1
+13
+D. 5
+E. 0
+5
+
+PAGE 6
+MA 26100 Exam 1 Spring 2023
+(x+y)2
+9. How should f(0,0) be defined so that f(x,y) = is continuous at (0,0)?
+x2 +y2
+A. f(0,0) = 1
+B. f(0,0) = 2
+C. f(0,0) = 1
+2
+D. f(0,0) = 0
+E. Not possible to define f(0,0) such that f(x,y) is continuos at (0,0)
+10. If f(x,y) = xy2 +yex2 +5, find f
+xx
+A. 2yex2
+B. yex2(1+x2)
+C. 2yex2(1+2x2)
+D. 2xex2 +y2
+E. 2xyex2
+6
+
+PAGE 7
+MA 26100 Exam 1 Spring 2023
+11. The directional derivative of f(x,y) = x3e−2y in the direction of the greatest increase of
+f at x = 1, y = 0 is
+A. 3⃗i
+B. 3⃗i−2⃗j
+C. 3
+√
+D. 5
+√
+E. 13
+∂u
+12. If u(p,q,r) = p2−q2−r and p = xy, q = y2, and r = xz, find at x = 1, y = 2, z = 5.
+∂x
+A. −1
+B. 9
+C. 13
+D. 3
+E. 0
+7

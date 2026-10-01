@@ -1,0 +1,16 @@
+PAGE 1
+MA 26100 – FALL 2023
+Exam 1
+VERSION 1111
+1 A
+2 A
+3 A
+4 E
+5 B
+6 E
+7 C
+8 D
+9 D
+10 B
+11 A
+12 B

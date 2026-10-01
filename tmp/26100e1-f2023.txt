@@ -1,0 +1,186 @@
+PAGE 1
+MA 26100
+Exam 1
+10/03/2023
+TEST/QUIZ NUMBER:
+1111
+NAME YOUR TA’S NAME
+STUDENT ID # RECITATION #
+You must use a #2 pencil on the scantron answer sheet. Fill in the following on your scantron and
+blacken the bubbles
+1. Your name. If there aren’t enough spaces for your name, fill in as much as you can.
+2. Your 3-digit recitation section number, e.g. XYZ . (If you don’t know your recitation
+section number, ask your TA.)
+3. Test/Quiz number: 1111
+4. StudentIdentificationNumber: This is your Purdue ID number with two leading zeros
+5. Blacken in your choice of the correct answer on the scantron answer sheet for questions 1–12.
+There are 12 questions, each worth 8 points (you will earn 4 points for filling out your scantron
+correctly). Do all your work in this exam booklet. Use the back of the test pages for scrap paper.
+Turn in both the scantron and the exam booklet when you are finished.
+If you finish the exam before 8:50pm, you may leave the room after turning in the scantron sheet
+and the exam booklet. You may not leave the room before 8:20pm. If you don’t finish before
+8:50pm, you MUST REMAIN SEATED until your TA comes and collects your scantron sheet and
+your exam booklet.
+EXAM POLICIES
+1. Students may not open the exam booklet until instructed to do so.
+2. Students must obey the orders and requests by all proctors, TAs, and lecturers.
+3. No student may leave in the first 20 min or in the last 10 min of the exam.
+4. Books, notes, calculators, phone, or any electronic devices are not allowed on the exam, and
+they should not even be in sight in the exam room. Students may not look at anybody else’s
+test, and may not communicate with anybody else except, if they have a question, with their
+TA or lecturer.
+5. After time is called, students must put down all writing instruments and remain in their
+seats, while the TAs will collect the scantrons and the exams.
+6. Anyviolationoftheserulesandanyactofacademicdishonestymayresultinseverepenalties.
+Additionally, all violators will be reported to the Office of the Dean of Students.
+I have read and understand the exam rules stated above:
+STUDENT SIGNATURE:
+1
+
+PAGE 2
+1. A rocket travels through space with acceleration ⃗a(t) = ⟨cos(t),4,e−t⟩. At time t = 0 the
+rocket has position ⃗r = ⟨0,0,0⟩ and velocity ⃗v = ⟨1,2,3⟩. What is the position of the
+0 0
+rocket at time t = 2?
+A. ⟨3−cos(2),12,7+e−2⟩
+B. ⟨cos(2),8,e−2⟩
+C. ⟨−cos(2),8,8−e−2⟩
+D. ⟨1−cos(2),12,7+e−2⟩
+E. ⟨1−cos(2),12,8+e−2⟩
+√
+2. Let r(t) = ⟨ 3sin(t),sin(t),2cos(t)⟩. Compute κ(π), the curvature evaluated at π.
+2 2
+1
+A.
+2
+B. 1
+C. 2
+√
+2
+D.
+2
+√
+3
+E.
+2
+2
+
+PAGE 3
+3. Givenf(x,y) = 25−x2−y2,findthedirectionofsteepestdescentatthepoint(x,y) = (3,−4).
+(cid:10) (cid:11)
+A. 3,−4
+5 5
+(cid:68) √ √ (cid:69)
+B. − 2, 2
+2 2
+(cid:68)√ √ (cid:69)
+C. 2, 2
+2 2
+(cid:68)√ (cid:69)
+D. 3,−1
+2 2
+(cid:10) (cid:11)
+E. −3, 4
+5 5
+4. Determine a so that the line
+x−3 y +5 z +1
+= =
+a 2 4
+is parallel to the plane 2x+3y −5z = 14
+A. 5
+B. 3
+C. −14
+D. −4
+E. 7
+3
+
+PAGE 4
+5. Let f(x,y) be a function of two variables with partial derivatives:
+∂f −4 ∂f
+= , = 6y −2
+∂x x5 ∂y
+∂f
+Suppose that we have x = rcos(θ) and y = rsin(θ). Compute at the point (r,θ) = (1,π)
+∂r
+A. −2
+B. −4
+C. −8
+D. −6
+E. 0
+6. The graph below could be described by which of the following vector-valued functions?
+A. ⃗r(t) = ⟨tcos(t),3,sin(t)⟩
+B. ⃗r(t) = ⟨cos(t),sin(t),2t⟩
+C. ⃗r(t) = ⟨et,et,1⟩
+√ √
+D. ⃗r(t) = ⟨2cos(t), 2sin(t), 2sin(t)⟩
+E. ⃗r(t) = ⟨tcos(t),tsin(t),5⟩
+4
+
+PAGE 5
+7. The point (0,0) is a critical point of the function
+f(x,y) = cos(x)(2+x2)−y3
+What does the second derivative test tell us about the point (0,0)?
+A. It is a local minumum of the function f(x,y).
+B. It is either a local maximum or a local minimum of f(x,y).
+C. The test is inconclusive and does not tell us how this point behaves.
+D. It is a local maximum of the function f(x,y).
+E. It is a saddle point of the function f(x,y).
+8. Find the equation of the tangent plane to the quadric surface
+y2
+x2 − −z2 = 3
+16
+at the point (2,4,0).
+A. 8x+y = 12
+B. 4x−y = 4
+C. z = 0
+D. 8x−y = 12
+√
+E. 2 3x = 0
+5
+
+PAGE 6
+9. Let f(x,y) = ln(x2 +4y2 +4). Compute f (2,1).
+yx
+32
+A. −
+81
+B. −16ln(81)
+16
+C. −
+9
+2
+D. −
+9
+2
+E. −
+81
+10. Identify the surface defined by the equation x2 −y2 −4x+z2 = 4
+A. Ellipsoid.
+B. Hyperboloid of one sheet.
+C. Hyperboloid of two sheets.
+D. Cone.
+E. Hyperbolic paraboloid.
+6
+
+PAGE 7
+11. Evaluate
+ex+y −1
+lim
+(x,y)→(0,0) 2x−2y
+A. The limit does not exist
+B. 0
+C. 1
+D. 2
+E. 1
+2
+12. The line through (5,1,0) and (0,2,1) intersects the plane x+y +z = 9 at the point
+A. (12,0,−3)
+B. (10,0,−1)
+C. (3,5,1)
+D. (2,−1,8)
+E. (−1,12,−2)
+7
+
+PAGE 8
+(This page left intentionally blank for scratch work.)
+8

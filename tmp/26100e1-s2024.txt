@@ -1,0 +1,205 @@
+PAGE 1
+MA 26100
+Exam 1 - Spring 2024
+02/20/2024
+TEST/QUIZ NUMBER:
+11
+NAME YOUR TA’S NAME
+STUDENT ID # RECITATION #
+You must use a #2 pencil on the scantron answer sheet. Fill in the following on your scantron and
+blacken the bubbles
+1. Your name. If there aren’t enough spaces for your name, fill in as much as you can.
+2. Your recitation section number. (If you don’t know your recitation section number, ask your
+TA.)
+3. Test/Quiz number: 11
+4. StudentIdentificationNumber: This is your Purdue ID number with two leading zeros
+5. Blacken in your choice of the correct answer on the scantron answer sheet for questions 1–12.
+There are 12 questions, each worth 8 points (you will earn 4 points for filling out your scantron
+correctly). Do all your work in this exam booklet. Use the back of the test pages for scrap paper.
+Turn in both the scantron and the exam booklet when you are finished.
+If you finish the exam before 8:50pm, you may leave the room after turning in the scantron sheet
+and the exam booklet. You may not leave the room before 8:20pm. If you don’t finish before
+8:50pm, you MUST REMAIN SEATED until your TA comes and collects your scantron sheet and
+your exam booklet.
+EXAM POLICIES
+1. Students may not open the exam booklet until instructed to do so.
+2. Students must obey the orders and requests by all proctors, TAs, and lecturers.
+3. No student may leave in the first 20 min or in the last 10 min of the exam.
+4. Books, notes, calculators, phone, or any electronic devices are not allowed on the exam, and
+they should not even be in sight in the exam room. Students may not look at anybody else’s
+test, and may not communicate with anybody else except, if they have a question, with their
+TA or lecturer.
+5. After time is called, students must put down all writing instruments and remain in their
+seats, while the TAs will collect the scantrons and the exams.
+6. Anyviolationoftheserulesandanyactofacademicdishonestymayresultinseverepenalties.
+Additionally, all violators will be reported to the Office of the Dean of Students.
+I have read and understand the exam rules stated above:
+STUDENT SIGNATURE:
+
+PAGE 2
+MA 26100 - Spring 2024 Exam 1 Test/Quiz #: 11
+1. Consider the surface:
+3x2 −12x+5y3 +z +6 = 0.
+Find the points on the surface at which the tangent plane is parallel to the xy-plane.
+A. (2,1,1)
+B. (3,0,11)
+C. (3,1,7)
+D. (1,1,−2)
+E. (2,0,6)
+2
+
+PAGE 3
+MA 26100 - Spring 2024 Exam 1 Test/Quiz #: 11
+√
+2. Where is ⃗r(t) = ⟨ln(t2), t,cos(t)⟩ continuous?
+A. [0,∞)
+B. (0,∞)
+C. [0,1)
+D. (1,∞)
+E. (−∞,∞)
+3
+
+PAGE 4
+MA 26100 - Spring 2024 Exam 1 Test/Quiz #: 11
+3. Find the line of intersection between the planes x−2y = 4 and x+y +z = 1.
+A. ⟨0,−2,3⟩+t⟨−2,−1,3⟩
+B. ⟨0,2,3⟩+t⟨−2,−1,3⟩
+C. ⟨−2,−1,−1⟩+t⟨0,2,−1⟩
+D. ⟨−2,1,−1⟩+t⟨1,1,1⟩
+E. ⟨0,2,−3⟩+t⟨−2,1,3⟩
+4
+
+PAGE 5
+MA 26100 - Spring 2024 Exam 1 Test/Quiz #: 11
+π
+4. Let f(x,y,z) = sin(zy)+ey2z3 +sec5y2 +ln(9z5). Compute f (2,1, ).
+yxz
+2
+A. −2
+B. 1
+C. −1
+D. 2
+E. 0
+5
+
+PAGE 6
+MA 26100 - Spring 2024 Exam 1 Test/Quiz #: 11
+5. A particle travels with position vector ⃗r(t) = ⟨4cost−9,3cost+13,5sint−9,⟩,t ≥ 0.
+Find the difference t −t such that during the interval of time from t to t the particle has
+2 1 1 2
+traveled a distance 40.
+A. 10
+B. 8
+C. 5
+D. 4
+E. 2
+6
+
+PAGE 7
+MA 26100 - Spring 2024 Exam 1 Test/Quiz #: 11
+6. Compute Proj ⃗u, where w⃗ = ⟨−1,−1,0⟩ and ⃗u = ⟨1,2,1⟩.
+w⃗
+A. −1⟨−1,−1,0⟩
+2
+B. 3⟨1,2,1⟩
+2
+C. −1⟨1,2,1⟩
+2
+D. −3⟨1,2,1⟩
+2
+E. −3⟨−1,−1,0⟩
+2
+7
+
+PAGE 8
+MA 26100 - Spring 2024 Exam 1 Test/Quiz #: 11
+7. Suppose that z is defined implicitly as a function of x and y by the equation:
+4cos(xy) = e3z −1.
+∂z π
+Use implicit differentiation to find at the point (3, ,0).
+∂y 2
+4
+A.
+3
+4
+B.
+3
+C. −4
+D. 0
+E. 4
+8
+
+PAGE 9
+MA 26100 - Spring 2024 Exam 1 Test/Quiz #: 11
+8. Suppose,
+x6 −8k(x3 +y3)−y6
+lim = 16,
+(x,y)→(0,0)
+x3 +y3
+then the number k must be equal to?
+A. −2
+B. 4
+C. 2
+D. −4
+E. 8
+9
+
+PAGE 10
+MA 26100 - Spring 2024 Exam 1 Test/Quiz #: 11
+9. Let M and m denote the maximum and the minimum values of f(x,y) = x2 +y2 −4y +1
+on the disk x2 +y2 ≤ 9. Find M +m.
+A. 19
+B. 25
+C. 22
+D. 24
+E. 20
+10
+
+PAGE 11
+MA 26100 - Spring 2024 Exam 1 Test/Quiz #: 11
+10. Find the directional derivative of the function f(x,y,z) = x4 +3y2 +cos(z)+3 at the point
+π
+(1,1, ) in the direction of the vector ⃗u = ⟨−1,1,0⟩.
+4
+√
+A. 2 2
+√
+B. − 2
+√
+2
+C.
+2
+√
+D. 5 2
+√
+E. 2
+11
+
+PAGE 12
+MA 26100 - Spring 2024 Exam 1 Test/Quiz #: 11
+11. Identify the surface:
+y2 z2
+−x2 − + = 1
+4 7
+A. Hyperboloid of two sheets
+B. Hyperboloid of one sheet
+C. Hyperbolic paraboloid
+D. Elliptic Paraboloid
+E. Elliptic cone
+12
+
+PAGE 13
+MA 26100 - Spring 2024 Exam 1 Test/Quiz #: 11
+12. If L is the tangent line to the curve ⃗r(t) = ⟨3t−1,t2 +2,t2 −3⟩ at (2, 3, -2), find the point
+where L intersects the xy-plane.
+A. (1,−1,0)
+B. (1,1,0)
+C. (5,5,0)
+D. (−5,−5,0)
+E. (0,0,0)
+13
+
+PAGE 14
+MA 26100 - Spring 2024 Exam 1 Test/Quiz #: 11
+(This page left intentionally blank for scratch work.)
+14

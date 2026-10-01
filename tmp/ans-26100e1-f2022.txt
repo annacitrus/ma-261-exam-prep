@@ -1,0 +1,16 @@
+PAGE 1
+MA 26100 – FALL 2022
+Exam 1
+VERSION 01
+1 E
+2 C
+3 B
+4 E
+5 A
+6 D
+7 B
+8 E
+9 B
+10 C
+11 A
+12 E
